@@ -22,4 +22,4 @@
 ---
 
 ### 📂 Featured Repository
-- 👉 **python-basics** — Python fundamentals and practice programs
+- 👉 **rock-paper-scissors-game** — A simple game made using Python.
